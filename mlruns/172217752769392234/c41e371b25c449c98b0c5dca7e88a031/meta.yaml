@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172217752769392234/c41e371b25c449c98b0c5dca7e88a031/artifacts
+end_time: 1723985681554
+entry_point_name: ''
+experiment_id: '172217752769392234'
+lifecycle_stage: active
+run_id: c41e371b25c449c98b0c5dca7e88a031
+run_name: valuable-hare-492
+run_uuid: c41e371b25c449c98b0c5dca7e88a031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723985675382
+status: 3
+tags: []
+user_id: ankitmishralive

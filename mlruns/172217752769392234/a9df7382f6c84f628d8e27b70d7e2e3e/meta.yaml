@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172217752769392234/a9df7382f6c84f628d8e27b70d7e2e3e/artifacts
+end_time: 1723752592163
+entry_point_name: ''
+experiment_id: '172217752769392234'
+lifecycle_stage: active
+run_id: a9df7382f6c84f628d8e27b70d7e2e3e
+run_name: 'Best Model '
+run_uuid: a9df7382f6c84f628d8e27b70d7e2e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723752590912
+status: 3
+tags: []
+user_id: ankitmishralive

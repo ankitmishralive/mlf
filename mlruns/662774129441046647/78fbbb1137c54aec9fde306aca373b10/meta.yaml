@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/78fbbb1137c54aec9fde306aca373b10/artifacts
+end_time: 1724084238665
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 78fbbb1137c54aec9fde306aca373b10
+run_name: secretive-boar-895
+run_uuid: 78fbbb1137c54aec9fde306aca373b10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084238618
+status: 3
+tags: []
+user_id: ankitmishralive

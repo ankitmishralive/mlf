@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172217752769392234/6cdf5722b30d4477a0e263a9c8cd160a/artifacts
+end_time: 1723986735499
+entry_point_name: ''
+experiment_id: '172217752769392234'
+lifecycle_stage: active
+run_id: 6cdf5722b30d4477a0e263a9c8cd160a
+run_name: inquisitive-wren-938
+run_uuid: 6cdf5722b30d4477a0e263a9c8cd160a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723986727638
+status: 3
+tags: []
+user_id: ankitmishralive

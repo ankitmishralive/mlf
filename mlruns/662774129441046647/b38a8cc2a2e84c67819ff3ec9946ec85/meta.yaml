@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/b38a8cc2a2e84c67819ff3ec9946ec85/artifacts
+end_time: 1724084238448
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: b38a8cc2a2e84c67819ff3ec9946ec85
+run_name: bald-stoat-110
+run_uuid: b38a8cc2a2e84c67819ff3ec9946ec85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084238387
+status: 3
+tags: []
+user_id: ankitmishralive

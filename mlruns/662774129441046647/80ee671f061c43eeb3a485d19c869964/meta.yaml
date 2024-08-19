@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/80ee671f061c43eeb3a485d19c869964/artifacts
+end_time: 1724084237171
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 80ee671f061c43eeb3a485d19c869964
+run_name: serious-boar-466
+run_uuid: 80ee671f061c43eeb3a485d19c869964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237124
+status: 3
+tags: []
+user_id: ankitmishralive

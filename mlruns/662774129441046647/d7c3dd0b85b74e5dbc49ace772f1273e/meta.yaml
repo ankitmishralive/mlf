@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/d7c3dd0b85b74e5dbc49ace772f1273e/artifacts
+end_time: 1724084234785
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: d7c3dd0b85b74e5dbc49ace772f1273e
+run_name: calm-dolphin-304
+run_uuid: d7c3dd0b85b74e5dbc49ace772f1273e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084234681
+status: 3
+tags: []
+user_id: ankitmishralive

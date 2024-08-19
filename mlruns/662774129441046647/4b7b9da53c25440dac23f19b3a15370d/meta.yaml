@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/4b7b9da53c25440dac23f19b3a15370d/artifacts
+end_time: 1724084237810
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 4b7b9da53c25440dac23f19b3a15370d
+run_name: enthused-frog-873
+run_uuid: 4b7b9da53c25440dac23f19b3a15370d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237772
+status: 3
+tags: []
+user_id: ankitmishralive

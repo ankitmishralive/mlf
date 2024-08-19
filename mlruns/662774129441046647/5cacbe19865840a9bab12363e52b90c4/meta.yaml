@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/5cacbe19865840a9bab12363e52b90c4/artifacts
+end_time: 1724084234541
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 5cacbe19865840a9bab12363e52b90c4
+run_name: unequaled-calf-178
+run_uuid: 5cacbe19865840a9bab12363e52b90c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084234387
+status: 3
+tags: []
+user_id: ankitmishralive

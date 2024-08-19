@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/492609ff4bfa4fd29f7ff9311a87c840/artifacts
+end_time: 1724084238969
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 492609ff4bfa4fd29f7ff9311a87c840
+run_name: capricious-conch-375
+run_uuid: 492609ff4bfa4fd29f7ff9311a87c840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084238900
+status: 3
+tags: []
+user_id: ankitmishralive

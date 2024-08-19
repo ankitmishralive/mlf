@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/34739aa9a1ec410488d5ecde9a755f7c/artifacts
+end_time: 1724084237295
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 34739aa9a1ec410488d5ecde9a755f7c
+run_name: treasured-ray-12
+run_uuid: 34739aa9a1ec410488d5ecde9a755f7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237228
+status: 3
+tags: []
+user_id: ankitmishralive

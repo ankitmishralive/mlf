@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172217752769392234/439c3cd56c7a45a69c2f1483f824ad0d/artifacts
+end_time: 1723985681554
+entry_point_name: ''
+experiment_id: '172217752769392234'
+lifecycle_stage: active
+run_id: 439c3cd56c7a45a69c2f1483f824ad0d
+run_name: valuable-quail-32
+run_uuid: 439c3cd56c7a45a69c2f1483f824ad0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723985675382
+status: 3
+tags: []
+user_id: ankitmishralive

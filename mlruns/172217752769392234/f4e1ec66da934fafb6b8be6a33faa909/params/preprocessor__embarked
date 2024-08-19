@@ -1,0 +1,4 @@
+Pipeline(steps=[('impute', SimpleImputer(strategy='most_frequent')),
+                ('count_encode',
+                 CountEncoder(combine_min_nan_groups=True, verbose='count')),
+                ('scale', MinMaxScaler())])

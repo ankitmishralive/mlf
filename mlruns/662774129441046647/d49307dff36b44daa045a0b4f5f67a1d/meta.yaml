@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/d49307dff36b44daa045a0b4f5f67a1d/artifacts
+end_time: 1724084238327
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: d49307dff36b44daa045a0b4f5f67a1d
+run_name: ambitious-stag-165
+run_uuid: d49307dff36b44daa045a0b4f5f67a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084238272
+status: 3
+tags: []
+user_id: ankitmishralive

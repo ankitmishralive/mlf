@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/d79844361ed44a12ab53b9e4e8875afd/artifacts
+end_time: 1724084234064
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: d79844361ed44a12ab53b9e4e8875afd
+run_name: legendary-mouse-748
+run_uuid: d79844361ed44a12ab53b9e4e8875afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084233929
+status: 3
+tags: []
+user_id: ankitmishralive

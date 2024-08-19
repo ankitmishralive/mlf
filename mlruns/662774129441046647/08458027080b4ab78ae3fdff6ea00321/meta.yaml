@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/08458027080b4ab78ae3fdff6ea00321/artifacts
+end_time: 1724084237683
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 08458027080b4ab78ae3fdff6ea00321
+run_name: peaceful-eel-796
+run_uuid: 08458027080b4ab78ae3fdff6ea00321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237602
+status: 3
+tags: []
+user_id: ankitmishralive

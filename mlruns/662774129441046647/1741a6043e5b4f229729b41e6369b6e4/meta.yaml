@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/1741a6043e5b4f229729b41e6369b6e4/artifacts
+end_time: 1724084237955
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 1741a6043e5b4f229729b41e6369b6e4
+run_name: abundant-penguin-119
+run_uuid: 1741a6043e5b4f229729b41e6369b6e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237908
+status: 3
+tags: []
+user_id: ankitmishralive

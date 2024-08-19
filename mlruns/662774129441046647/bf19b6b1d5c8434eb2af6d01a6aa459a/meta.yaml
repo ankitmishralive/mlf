@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/bf19b6b1d5c8434eb2af6d01a6aa459a/artifacts
+end_time: 1724084236988
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: bf19b6b1d5c8434eb2af6d01a6aa459a
+run_name: abrasive-bat-835
+run_uuid: bf19b6b1d5c8434eb2af6d01a6aa459a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084236942
+status: 3
+tags: []
+user_id: ankitmishralive

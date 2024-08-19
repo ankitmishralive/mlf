@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/0303cd341897443fa91171281af8bf0d/artifacts
+end_time: 1724084237039
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 0303cd341897443fa91171281af8bf0d
+run_name: colorful-shrew-13
+run_uuid: 0303cd341897443fa91171281af8bf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084236997
+status: 3
+tags: []
+user_id: ankitmishralive

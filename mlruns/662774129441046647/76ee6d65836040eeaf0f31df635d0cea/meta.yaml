@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/76ee6d65836040eeaf0f31df635d0cea/artifacts
+end_time: 1724084235562
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 76ee6d65836040eeaf0f31df635d0cea
+run_name: masked-gnu-623
+run_uuid: 76ee6d65836040eeaf0f31df635d0cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084235454
+status: 3
+tags: []
+user_id: ankitmishralive

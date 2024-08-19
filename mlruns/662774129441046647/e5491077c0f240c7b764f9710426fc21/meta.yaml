@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/e5491077c0f240c7b764f9710426fc21/artifacts
+end_time: 1724084237219
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: e5491077c0f240c7b764f9710426fc21
+run_name: placid-snake-32
+run_uuid: e5491077c0f240c7b764f9710426fc21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237180
+status: 3
+tags: []
+user_id: ankitmishralive

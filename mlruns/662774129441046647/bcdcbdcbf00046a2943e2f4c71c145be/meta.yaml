@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/bcdcbdcbf00046a2943e2f4c71c145be/artifacts
+end_time: 1724084236130
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: bcdcbdcbf00046a2943e2f4c71c145be
+run_name: incongruous-fowl-271
+run_uuid: bcdcbdcbf00046a2943e2f4c71c145be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084235940
+status: 3
+tags: []
+user_id: ankitmishralive

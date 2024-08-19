@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/fcc6343b2900455cbc0db36056ba5ab9/artifacts
+end_time: 1724084236484
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: fcc6343b2900455cbc0db36056ba5ab9
+run_name: able-worm-922
+run_uuid: fcc6343b2900455cbc0db36056ba5ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084236317
+status: 3
+tags: []
+user_id: ankitmishralive

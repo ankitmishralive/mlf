@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/d2b1c92682ba424f9b374de7e301f7c9/artifacts
+end_time: 1724084233735
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: d2b1c92682ba424f9b374de7e301f7c9
+run_name: dashing-newt-320
+run_uuid: d2b1c92682ba424f9b374de7e301f7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084233616
+status: 3
+tags: []
+user_id: ankitmishralive

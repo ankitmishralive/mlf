@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/6863e330503a4c5892a910d685f180ca/artifacts
+end_time: 1724084238521
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 6863e330503a4c5892a910d685f180ca
+run_name: suave-koi-374
+run_uuid: 6863e330503a4c5892a910d685f180ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084238456
+status: 3
+tags: []
+user_id: ankitmishralive

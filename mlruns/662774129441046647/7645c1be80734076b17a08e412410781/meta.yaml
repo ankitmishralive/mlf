@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/7645c1be80734076b17a08e412410781/artifacts
+end_time: 1724084238731
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 7645c1be80734076b17a08e412410781
+run_name: unruly-ox-460
+run_uuid: 7645c1be80734076b17a08e412410781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084238674
+status: 3
+tags: []
+user_id: ankitmishralive

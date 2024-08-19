@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/662774129441046647/4bcfcc3055ed45df8e4165c6a554d32e/artifacts
+end_time: 1724084237358
+entry_point_name: ''
+experiment_id: '662774129441046647'
+lifecycle_stage: active
+run_id: 4bcfcc3055ed45df8e4165c6a554d32e
+run_name: orderly-grub-269
+run_uuid: 4bcfcc3055ed45df8e4165c6a554d32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724084237304
+status: 3
+tags: []
+user_id: ankitmishralive

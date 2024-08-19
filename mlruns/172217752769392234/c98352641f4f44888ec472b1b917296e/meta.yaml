@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172217752769392234/c98352641f4f44888ec472b1b917296e/artifacts
+end_time: 1723969264567
+entry_point_name: ''
+experiment_id: '172217752769392234'
+lifecycle_stage: active
+run_id: c98352641f4f44888ec472b1b917296e
+run_name: rare-shrike-924
+run_uuid: c98352641f4f44888ec472b1b917296e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723969258161
+status: 3
+tags: []
+user_id: ankitmishralive
